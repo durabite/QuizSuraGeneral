@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+* {
+  font-family: "Open Sans", sans-serif, "Roboto" !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+  font-weight: 900 !important;
+}
+
+.separador-esmeralda {
+  height: 3px;
+  background-color: #00AEC7;
+  opacity: 100;
+  border: 0;
+}
+
+.bg-amarillo {
+  background-color: #E3E829;
+}
+
+.bg-gris-supp {
+  background-color: #ECF0F1;
+}
+
+.linea-esmeralda {
+  border: 3px solid #00AEC7;
+}
+
+.t-esmeralda {
+  color: #00AEC7;
+}
+
+.t-grande {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.t-portada {
+  color: #55585C;
+  font-size: 1.8rem;
+}
+
+.boton-esmeralda {
+  background-color: #00AEC7;
+  color: #E3E829;
+  text-transform: uppercase;
+  font-size: 2rem;
+  font-weight: 700;
+  border: 0;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+header {
+  background-color: #E3E829;
+  color: #00AEC7;
+}
+header p {
+  font-size: 1.6rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+}
+
+.no-pregunta {
+  font-size: 3rem;
+  color: #55585C;
+  font-weight: bold;
+}
+
+.t-preguntas {
+  color: #55585C;
+  font-size: 1.6rem;
+}
+
+.img-gif {
+  width: 300px;
+  height: 300px;
+  border: 1px solid #00AEC7;
+  border-radius: 12px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-1 {
+  background-image: url("../image/candy-candy-candy-y-anthony.gif");
+}
+
+#img-2 {
+  background-image: url("../image/alf.gif");
+}
+
+.form-preguntas {
+  font-size: 1.5rem;
+  color: #55585C;
+  background-color: white;
+  font-weight: bold;
+  border-radius: 15px;
+  border: 3px solid #00AEC7;
+}/*# sourceMappingURL=style.css.map */

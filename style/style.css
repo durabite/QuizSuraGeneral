@@ -85,18 +85,70 @@ header p {
 }
 
 #img-1 {
-  background-image: url("../image/candy-candy-candy-y-anthony.gif");
+  background-image: url("../image/candy-candy.gif");
 }
 
 #img-2 {
   background-image: url("../image/alf.gif");
 }
 
+#img-3 {
+  background-image: url("../image/britney-spears.gif");
+}
+
+#img-4 {
+  background-image: url("../image/preocupado-afore.gif");
+}
+
+#img-5 {
+  background-image: url("../image/chayanne.gif");
+}
+
 .form-preguntas {
   font-size: 1.5rem;
   color: #55585C;
-  background-color: white;
+  background-color: #fdfdfd;
   font-weight: bold;
   border-radius: 15px;
   border: 3px solid #00AEC7;
+}
+
+.porcentaje {
+  font-size: 4rem;
+  font-weight: bold;
+  color: #E3E829;
+  background-color: #00AEC7;
+  border-radius: 100%;
+  width: 180px;
+  height: 180px;
+  display: inline-block;
+  border: 1px solid #0033A0;
+}
+.porcentaje .porcentaje2 {
+  width: 100%;
+  height: 100%;
+}
+.porcentaje .porcentaje2 p {
+  margin: 0;
+  padding: 0;
+}
+
+.anuncio {
+  background-color: white;
+  border: 2px solid #00AEC7;
+  border-radius: 24px;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #0033A0;
+}
+
+.anuncio2 {
+  font-size: 2rem;
+  color: #0033A0;
+  font-weight: bold;
+}
+
+.texto-final {
+  font-size: 1.8rem;
+  color: #55585C;
 }/*# sourceMappingURL=style.css.map */

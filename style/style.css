@@ -1,6 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+@font-face {
+  font-family: "SuraSans";
+  src: url("../font/SuraSans-Regular.otf");
+}
 * {
-  font-family: "Open Sans", sans-serif, "Roboto" !important;
+  font-family: "SuraSans", sans-serif, "Roboto" !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
